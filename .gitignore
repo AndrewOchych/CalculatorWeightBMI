@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+
+# IntellijIdea files
+*.iml
+.idea
+out
+
 # testing
 /coverage
 
